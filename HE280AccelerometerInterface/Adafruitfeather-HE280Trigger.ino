@@ -86,7 +86,7 @@ void loop() {
         //digitalWrite(trigger_pin,LOW);
     }
 
-
+ 
 }
 
 // Comment out the following if NeoPixel are not used for lights 
