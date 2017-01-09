@@ -1,5 +1,5 @@
 //this forked from from Trash80 HE280AccelerometerInterface https://github.com/trash80/HE280AccelerometerInterface
-// by tunkerhammer 1/9/2017
+// by tunkerhammer 1/9/2017 
 
 #include <Wire.h>
 
