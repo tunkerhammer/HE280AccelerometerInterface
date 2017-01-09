@@ -5,3 +5,9 @@ this is a fork from Trash80 HE280AccelerometerInterface which is a simple Arduin
 The program was changed to work with a Adafruit basic feather and to work with duetwifi firmware 1.17b
 
 Pin configuration is commented in the main source file.
+
+the following was add/changed in thr config.g file on duet.
+
+  M558 P5 X0 Y0 Z1 H3 F1500 T3000
+  
+  
